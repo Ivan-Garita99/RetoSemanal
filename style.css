@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    background: beige;
+
+}
+
+header{
+    margin: auto;
+    margin-top: 2%;
+    width: 110rem;
+}
+
+.menu-navegacion{
+    float: right;
+    padding: 0%;
+    width: 30%;
+    margin: auto;
+    margin-top: -2%;
+}
+
+.contenedor{
+    float: left;
+
+}
+.contenedor-1{
+    margin: auto;
+    margin-top: 5%;
+    width: 110rem;
+    height: 50rem;
+    background-color: azure;
+}
+.contenedor-2{
+    margin: auto;
+    margin-top: 1%;
+    width: 150px;
+    height: 50px;
+    background-color: rebeccapurple;
+  
+}
+
+.contenedor-3{
+    margin: auto;
+    margin-top: 1%;
+    width: 150px;
+    height: 50px;
+    
+}

@@ -1,4 +1,4 @@
-*{
+/**{
     margin: 0%;
     padding: 0%;
 }
@@ -21,6 +21,14 @@ header{
     padding: 0%;
     width: 30%;
     margin: auto;
+
+}
+/*.menu-navegacion li a{
+  text-decoration: none;
+  color: brown;
+  padding: 20px;
+  display: block;
+    
 }
 .main{
     display: flex;
@@ -35,7 +43,7 @@ header{
     margin: auto;
     width: 110rem;
     height: 50rem;
-    background-color: azure;
+    /*background-color: azure;
 }
 .contenedor-2{
     margin: auto;
@@ -53,3 +61,4 @@ header{
     height: 50px;
     
 }
+*/

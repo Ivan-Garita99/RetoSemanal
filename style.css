@@ -1,4 +1,4 @@
-*{
+/**{
     margin: 0%;
     padding: 0%;
 }
@@ -11,8 +11,9 @@ body{
 
 header{
     margin: auto;
-    margin-top: 2%;
+    margin-bottom: 2%;
     width: 110rem;
+    padding: 1rem;
 }
 
 .menu-navegacion{
@@ -20,19 +21,29 @@ header{
     padding: 0%;
     width: 30%;
     margin: auto;
-    margin-top: -2%;
-}
 
+}
+/*.menu-navegacion li a{
+  text-decoration: none;
+  color: brown;
+  padding: 20px;
+  display: block;
+    
+}
+.main{
+    display: flex;
+    flex-direction: row;
+
+}
 .contenedor{
     float: left;
 
 }
 .contenedor-1{
     margin: auto;
-    margin-top: 5%;
     width: 110rem;
     height: 50rem;
-    background-color: azure;
+    /*background-color: azure;
 }
 .contenedor-2{
     margin: auto;
@@ -50,3 +61,4 @@ header{
     height: 50px;
     
 }
+*/
